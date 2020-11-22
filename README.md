@@ -1,5 +1,12 @@
 # Minimal Flask CookieCutter
 
+## Usage
+
+```
+pip install cookiecutter
+cookiecutter gh:qria/new
+```
+
 ## Rationale
 
 I've been making a lot of quick project recently and found myself to be
@@ -20,6 +27,5 @@ It contains the minimal of configuration to achieve the complete settings from d
 - Requirements Pinning
 
 Note that python3.8 is assumed.
-
 
 [Black]: https://github.com/psf/black
