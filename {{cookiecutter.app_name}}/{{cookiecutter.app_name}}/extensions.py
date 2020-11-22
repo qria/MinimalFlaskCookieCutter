@@ -4,7 +4,7 @@
 Extensions are created here with Application Factory Pattern to avoid
 circular definition.
 
-See: https://flask.palletsprojects.com/en/1.1.x/patterns/appfactories/#factories-extensions
+See: https://flask.palletsprojects.com/en/1.1.x/patterns/appfactories/#factories-extensions  # noqa
 
 """
 

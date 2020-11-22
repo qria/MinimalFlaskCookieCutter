@@ -26,4 +26,4 @@ if SENTRY_API_KEY:
 
 @app.route("/")
 def index() -> str:
-    return render_template('index.html')
+    return render_template("index.html")
