@@ -3,6 +3,9 @@
     "env": {
       "FLASK_ENV": {
         "value": "production"
+      },
+      "FLASK_APP": {
+        "value": "{{cookiecutter.app_name}}/app.py"
       }
     },
     "formation": {
