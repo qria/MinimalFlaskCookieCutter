@@ -1,0 +1,19 @@
+{
+    "name": "{{cookiecutter.app_name}}",
+    "env": {
+      "FLASK_ENV": {
+        "value": "production"
+      }
+    },
+    "formation": {
+      "web": {
+        "quantity": 1,
+        "size": "free"
+      }
+    },
+    "image": "heroku/python",
+    "addons": [
+      "logentries",
+      "heroku-postgresql"
+    ]
+  }

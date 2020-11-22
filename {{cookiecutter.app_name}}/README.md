@@ -14,6 +14,10 @@ pre-commit install  # To install pre commit check hooks
 
 ## Deployment
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+Push the button above to deploy to heroku. You may erase app.json after deployment.
+
 Enable [Heroku automatic deployment][heroku] to automatically deploy the master branch.
 
 
