@@ -1,0 +1,2 @@
+web: gunicorn {{cookiecutter.app_name}}.app:app
+release: flask db upgrade
