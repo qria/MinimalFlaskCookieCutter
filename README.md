@@ -13,7 +13,7 @@ It contains the minimal of configuration to achieve the complete settings from d
 
 - Minimal Flask + SQLAlchemy
 - Configuration object setup
-    - Read config/__init__.py for the rationale
+    - Read config/__init\__.py for the rationale
     - Some reasonable default configurations are set
 - [Black] & flake8 based autolint with precommit hooks
 - Heroku
