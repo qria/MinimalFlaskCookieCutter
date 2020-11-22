@@ -12,6 +12,12 @@ pip install -r dev-requirements.txt
 pre-commit install  # To install pre commit check hooks
 ```
 
+## Run
+
+```bash
+flask run
+```
+
 ## Deployment
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
